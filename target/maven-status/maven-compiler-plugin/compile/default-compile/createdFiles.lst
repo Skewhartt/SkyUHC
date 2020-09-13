@@ -1,0 +1,15 @@
+fr/skewhartt/scoreboards/ScoreboardSign.class
+fr/skewhartt/commands/CommandManager.class
+fr/skewhartt/TestPlugin.class
+fr/skewhartt/listeners/player/JoinPlayerListeners.class
+fr/skewhartt/listeners/ListenersManager.class
+fr/skewhartt/utils/TitleManager.class
+fr/skewhartt/runnables/LobbyTimerRunnable.class
+fr/skewhartt/listeners/player/EntityDamage.class
+fr/skewhartt/runnables/LobbyFeedRunnable.class
+fr/skewhartt/listeners/player/PlayerMove.class
+fr/skewhartt/GameStatus.class
+fr/skewhartt/manager/GameManager.class
+fr/skewhartt/listeners/player/QuitPlayerListeners.class
+fr/skewhartt/runnables/GameStartTimerRunnable.class
+fr/skewhartt/commands/StartCommand.class

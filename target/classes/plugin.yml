@@ -1,0 +1,8 @@
+name: TestPlugin
+author: Skewhartt
+version: 1.0-SNAPSHOT
+main: fr.skewhartt.TestPlugin
+
+commands:
+  start:
+    description: Lance une partie
